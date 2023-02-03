@@ -1,5 +1,11 @@
-uvicorn
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
 fastapi
-joblib
+uvicorn
 gunicorn==19.9.0
 httptools
+joblib
+shap
