@@ -1,0 +1,5 @@
+uvicorn
+fastapi
+joblib
+gunicorn==19.9.0
+httptools

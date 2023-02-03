@@ -1,14 +1,8 @@
-# -*- coding: utf-8 -*-
-
 # 1. Library imports
 import uvicorn
-import gunicorn
 from fastapi import FastAPI
 from customer import customer
-import numpy as np
 import joblib
-import pandas as pd
-import shap
 
 # 2. Create the app object
 app = FastAPI()
